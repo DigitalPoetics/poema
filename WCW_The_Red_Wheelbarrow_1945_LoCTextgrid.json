@@ -1,0 +1,520 @@
+[
+    {
+        "tier_name": "tones",
+        "tier_type": "TextTier",
+        "start_time": 5.510298020041577,
+        "end_time": 5.510298020041577,
+        "text": "H*"
+    },
+    {
+        "tier_name": "tones",
+        "tier_type": "TextTier",
+        "start_time": 5.934156981543004,
+        "end_time": 5.934156981543004,
+        "text": "H*"
+    },
+    {
+        "tier_name": "tones",
+        "tier_type": "TextTier",
+        "start_time": 6.687129960210245,
+        "end_time": 6.687129960210245,
+        "text": "H*"
+    },
+    {
+        "tier_name": "tones",
+        "tier_type": "TextTier",
+        "start_time": 7.81986527454709,
+        "end_time": 7.81986527454709,
+        "text": "L-L%"
+    },
+    {
+        "tier_name": "tones",
+        "tier_type": "TextTier",
+        "start_time": 8.173129613474073,
+        "end_time": 8.173129613474073,
+        "text": "H*"
+    },
+    {
+        "tier_name": "tones",
+        "tier_type": "TextTier",
+        "start_time": 8.66181406320513,
+        "end_time": 8.66181406320513,
+        "text": "H*"
+    },
+    {
+        "tier_name": "tones",
+        "tier_type": "TextTier",
+        "start_time": 9.542614521742115,
+        "end_time": 9.542614521742115,
+        "text": "L-L%"
+    },
+    {
+        "tier_name": "tones",
+        "tier_type": "TextTier",
+        "start_time": 10.093853847924045,
+        "end_time": 10.093853847924045,
+        "text": "H*"
+    },
+    {
+        "tier_name": "tones",
+        "tier_type": "TextTier",
+        "start_time": 10.831867098538295,
+        "end_time": 10.831867098538295,
+        "text": "H*"
+    },
+    {
+        "tier_name": "tones",
+        "tier_type": "TextTier",
+        "start_time": 11.61152625786002,
+        "end_time": 11.61152625786002,
+        "text": "L-L%"
+    },
+    {
+        "tier_name": "tones",
+        "tier_type": "TextTier",
+        "start_time": 11.903980942336021,
+        "end_time": 11.903980942336021,
+        "text": "H*"
+    },
+    {
+        "tier_name": "tones",
+        "tier_type": "TextTier",
+        "start_time": 12.62703446489728,
+        "end_time": 12.62703446489728,
+        "text": "H*"
+    },
+    {
+        "tier_name": "tones",
+        "tier_type": "TextTier",
+        "start_time": 13.55964683510633,
+        "end_time": 13.55964683510633,
+        "text": "L-L%"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 1.5597053755391466,
+        "end_time": 1.6976560680046215,
+        "text": "The"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 1.6976560680046215,
+        "end_time": 2.1643403254942073,
+        "text": "Red"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 2.1643403254942073,
+        "end_time": 2.37566904586685,
+        "text": "Wheel"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 2.37566904586685,
+        "end_time": 2.8746396356355897,
+        "text": "barrow"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 2.8746396356355897,
+        "end_time": 5.3044664778893855,
+        "text": "<sil>"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 5.3044664778893855,
+        "end_time": 5.862139489983859,
+        "text": "so"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 5.862139489983859,
+        "end_time": 6.366980321985172,
+        "text": "much"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 6.366980321985172,
+        "end_time": 7.053798663196261,
+        "text": "depends"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 7.053798663196261,
+        "end_time": 7.819082716219939,
+        "text": "upon"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 7.819082716219939,
+        "end_time": 8.01635154127303,
+        "text": "a"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 8.01635154127303,
+        "end_time": 8.527062615506916,
+        "text": "red"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 8.527062615506916,
+        "end_time": 9.072995143136243,
+        "text": "wheel"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 9.072995143136243,
+        "end_time": 9.542614521742115,
+        "text": "barrow"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 9.542614521742115,
+        "end_time": 9.97959891883654,
+        "text": "<sil>"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 9.97959891883654,
+        "end_time": 10.484439750333012,
+        "text": "glazed"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 10.484439750333012,
+        "end_time": 10.643537261261192,
+        "text": "with"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 10.643537261261192,
+        "end_time": 11.188868817537392,
+        "text": "rain"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 11.188868817537392,
+        "end_time": 11.61152625786002,
+        "text": "water"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 11.61152625786002,
+        "end_time": 12.268993387250774,
+        "text": "beside"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 12.268993387250774,
+        "end_time": 12.433360169598462,
+        "text": "the"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 12.433360169598462,
+        "end_time": 12.791444945427354,
+        "text": "white"
+    },
+    {
+        "tier_name": "words",
+        "tier_type": "IntervalTier",
+        "start_time": 12.791444945427354,
+        "end_time": 13.55964683510633,
+        "text": "chickens"
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 5.510298020041577,
+        "end_time": 5.510298020041577,
+        "text": "B"
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 5.934156981543004,
+        "end_time": 5.934156981543004,
+        "text": "B"
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 6.687129960210245,
+        "end_time": 6.687129960210245,
+        "text": "B"
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 7.370290874630193,
+        "end_time": 7.370290874630193,
+        "text": "B"
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 8.173129613474073,
+        "end_time": 8.173129613474073,
+        "text": "B"
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 8.66181406320513,
+        "end_time": 8.66181406320513,
+        "text": "B"
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 9.210337425148154,
+        "end_time": 9.210337425148154,
+        "text": "B"
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 9.542614521742115,
+        "end_time": 9.542614521742115,
+        "text": "[B]"
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 10.093853847924045,
+        "end_time": 10.093853847924045,
+        "text": "B"
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 10.831867098538295,
+        "end_time": 10.831867098538295,
+        "text": "B"
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 11.295618668181032,
+        "end_time": 11.295618668181032,
+        "text": "B"
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 11.61152625786002,
+        "end_time": 11.61152625786002,
+        "text": ""
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 11.923927246406677,
+        "end_time": 11.923927246406677,
+        "text": "B"
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 12.552235824632323,
+        "end_time": 12.552235824632323,
+        "text": "B"
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 12.986067938169079,
+        "end_time": 12.986067938169079,
+        "text": "B"
+    },
+    {
+        "tier_name": "beats",
+        "tier_type": "TextTier",
+        "start_time": 13.55964683510633,
+        "end_time": 13.55964683510633,
+        "text": "[B]"
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 5.862139489983859,
+        "end_time": 5.862139489983859,
+        "text": 1
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 6.366980321985172,
+        "end_time": 6.366980321985172,
+        "text": 3
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 7.053798663196261,
+        "end_time": 7.053798663196261,
+        "text": 0
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 7.81986527454709,
+        "end_time": 7.81986527454709,
+        "text": 4
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 8.01635154127303,
+        "end_time": 8.01635154127303,
+        "text": 1
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 8.527062615506916,
+        "end_time": 8.527062615506916,
+        "text": 1
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 9.072995143136243,
+        "end_time": 9.072995143136243,
+        "text": 1
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 9.542614521742115,
+        "end_time": 9.542614521742115,
+        "text": 4
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 10.484439750333012,
+        "end_time": 10.484439750333012,
+        "text": 3
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 10.643537261261192,
+        "end_time": 10.643537261261192,
+        "text": 1
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 11.188868817537392,
+        "end_time": 11.188868817537392,
+        "text": 1
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 11.61152625786002,
+        "end_time": 11.61152625786002,
+        "text": 4
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 12.268993387250774,
+        "end_time": 12.268993387250774,
+        "text": 3
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 12.433360169598462,
+        "end_time": 12.433360169598462,
+        "text": 1
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 12.791444945427354,
+        "end_time": 12.791444945427354,
+        "text": 1
+    },
+    {
+        "tier_name": "breaks",
+        "tier_type": "TextTier",
+        "start_time": 13.55964683510633,
+        "end_time": 13.55964683510633,
+        "text": 4
+    },
+    {
+        "tier_name": "text",
+        "tier_type": "IntervalTier",
+        "start_time": 5.3044664778893855,
+        "end_time": 6.366980321985172,
+        "text": "so much"
+    },
+    {
+        "tier_name": "text",
+        "tier_type": "IntervalTier",
+        "start_time": 6.366980321985172,
+        "end_time": 7.81986527454709,
+        "text": "depends\\n upon\\n\\n"
+    },
+    {
+        "tier_name": "text",
+        "tier_type": "IntervalTier",
+        "start_time": 7.81986527454709,
+        "end_time": 9.542614521742115,
+        "text": "a red wheel\\n barow\\n\\n"
+    },
+    {
+        "tier_name": "text",
+        "tier_type": "IntervalTier",
+        "start_time": 9.97959891883654,
+        "end_time": 10.484439750333012,
+        "text": "glazed"
+    },
+    {
+        "tier_name": "text",
+        "tier_type": "IntervalTier",
+        "start_time": 10.484439750333012,
+        "end_time": 11.61152625786002,
+        "text": "with rain\\n water\\n\\n"
+    },
+    {
+        "tier_name": "text",
+        "tier_type": "IntervalTier",
+        "start_time": 11.61152625786002,
+        "end_time": 12.268993387250774,
+        "text": "beside"
+    },
+    {
+        "tier_name": "text",
+        "tier_type": "IntervalTier",
+        "start_time": 12.268993387250774,
+        "end_time": 13.55964683510633,
+        "text": "the white\\n chickens\n"
+    }
+]

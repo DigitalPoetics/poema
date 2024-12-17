@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title></title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="/wave-sound.png">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <!-- Sonification Diagram -->
+    <link rel="stylesheet" href="digitalformalism.css" />
+
+    <!-- Wavesurfer.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/7.8.11/wavesurfer.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/7.8.11/plugins/spectrogram.min.js"></script>
+    <!-- d3.js -->
+    <script src="d3.min.js"></script>
+  </head>
+
+  <body>
+    <div class="navbar">
+      <a href="index.html" class="active">Poema</a>
+      <a href="https://github.com/DigitalPoetics/poema" class="right" target="_blank">
+        Github <i class="fab fa-github"></i>
+      </a>
+    </div>
+   <!-- waveform canvas from wavesurfer -->
+    <div class="diagram-overflow">
+      <div id="waveform"></div>
+      <div id="y-axis"></div>
+      <div id="praat-labels"></div>
+    </div>
+    <!-- Play/Pause button -->
+    <div>
+      <button class="btn" onclick="wavesurfer.playPause()">
+        <i class="glyphicon glyphicon-play"></i> /
+        <i class="glyphicon glyphicon-pause"></i>
+      </button>
+    </div>
+
+    <!-- Annotations -->
+    <div id="annotations">
+      <h3 class="title">The Red Wheelbarrow</h3>
+      <div id="poem-container">
+        <span id="poem"></span>
+      </div>
+      
+    </div>
+    <div class="caption">
+      <p>William Carlos Williams's reading of "The Red Wheelbarrow," 
+        Library of Congress Recording Laboratory, May 5, 1945. 
+        Source:  <a href="https://writing.upenn.edu/pennsound/x/Williams-WC.php" target="_blank">
+          PennSound</a>.
+      </p>
+    </div>
+
+    <script src="canvas.js"></script>
+    <script src="pitch.js"></script>
+  </body>
+</html>
