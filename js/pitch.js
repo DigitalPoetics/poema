@@ -4,8 +4,10 @@ async function drawPraat(){
     let praatData;
     try {
         const [pitchResponse, praatResponse] = await Promise.all([
-            axios.get("./data/WCW_The_Red_Wheelbarrow_1945_Loc.json"),
-            axios.get("./data/WCW_The_Red_Wheelbarrow_1945_LocTextgrid.json")
+            // axios.get("./data/WCW_The_Red_Wheelbarrow_1945_Loc.json"),
+            axios.get("https://raw.githubusercontent.com/DigitalPoetics/poema/refs/heads/main/data/WCW_The_Red_Wheelbarrow_1945_LoC.json"),
+            // axios.get("./data/WCW_The_Red_Wheelbarrow_1945_LocTextgrid.json")
+            axios.get("https://raw.githubusercontent.com/DigitalPoetics/poema/refs/heads/main/data/WCW_The_Red_Wheelbarrow_1945_LoCTextgrid.json")
         ]);
         pitchData = pitchResponse.data;
         praatData = praatResponse.data;
