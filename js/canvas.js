@@ -4,7 +4,7 @@ const wavesurfer = WaveSurfer.create({
     container: '#waveform',
     waveColor: 'gray',
     progressColor: 'black',
-    url: 'WCW_The_Red_Wheelbarrow_1945_LoC.wav',
+    url: './data/WCW_The_Red_Wheelbarrow_1945_LoC.wav',
     // url: '1.wav',
     // width: 100,
     // scrollParent: true,
