@@ -4,7 +4,7 @@ async function drawPraat(){
     let praatData;
     try {
         const [pitchResponse, praatResponse] = await Promise.all([
-            axios.get("./data/WCW_The_Red_Wheelbarrow_1945_Loc.json"),
+            axios.get("./data/WCW_The_Red_Wheelbarrow_1945_LoC.json"),
             axios.get("./data/WCW_The_Red_Wheelbarrow_1945_LoCTextgrid.json")
 
         ]);
